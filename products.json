@@ -1,0 +1,31 @@
+{
+    "id": "LAP-001",
+    "name": "Dell Inspiron 15 Laptop",
+    "sku": "SKU-DL15-1235U",
+    "brand_id": 1,
+    "brand_name": "Dell",
+    "category_id": 1,
+    "category": "Laptops",
+    "price": 45000.00,
+    "cost_price": 38000.00,
+    "stock_quantity": 100,
+    "minimum_stock": 30,
+    "short_description": "Dell Inspiron 15 laptop with 12th Gen Intel Core i5, 8GB RAM, 512GB SSD, and Windows 11.",
+    "long_description": "The Dell Inspiron 15 is a powerful yet lightweight laptop designed for productivity and everyday use. It features a 12th Gen Intel Core i5 processor, 8GB DDR4 RAM, and 512GB SSD storage for fast performance. The 15.6-inch Full HD display delivers crisp visuals, while Windows 11 ensures a modern computing experience. Perfect for students, professionals, and home users.",
+    "dimensions": "35.8 x 23.5 x 1.9 cm",
+    "weight": "1.65 kg",
+    "is_active": true,
+    "is_featured": true,
+    "date_added": "2025-09-18",
+    "meta_title": "Dell Inspiron 15 Laptop – 12th Gen Intel, 8GB RAM, 512GB SSD",
+    "meta_description": "Shop Dell Inspiron 15 laptop with 12th Gen Intel Core i5, 8GB RAM, and 512GB SSD. Perfect balance of performance and portability.",
+    "tags": "Dell, Inspiron, Laptop, Windows 11, Core i5",
+    "image": "dell-inspiron-15.jpg",
+    "specifications": {
+      "processor": "Intel Core i5-1235U (12th Gen)",
+      "memory": "8GB DDR4 RAM",
+      "storage": "512GB SSD",
+      "display": "15.6-inch Full HD",
+      "os": "Windows 11"
+    }
+  }

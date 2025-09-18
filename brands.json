@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "name": "Dell",
+    "description": "Dell is a leading technology company known for its reliable laptops, desktops, and accessories, providing innovative solutions for home, business, and gaming.",
+    "website": "https://www.dell.com",
+    "is_active": true,
+    "logo": "dell-logo.jpg"
+  }

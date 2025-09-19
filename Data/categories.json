@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Laptops",
+        "description": "Browse our collection of laptops including Dell, HP, Lenovo, Acer, and Apple. Perfect for work, school, and gaming.",
+        "parent_id": 0,
+        "sort_order": 1,
+        "url_slug": "laptops",
+        "is_active": true
+    },
+    {
+        "id": 2,
+        "name": "Smartphones",
+        "description": "Latest smartphones from top brands",
+        "parent_id": 0,
+        "sort_order": 2,
+        "url_slug": "smartphones",
+        "is_active": true
+    },
+    {
+        "id": 3,
+        "name": "Audio",
+        "description": "Headphones, speakers, and audio equipment",
+        "parent_id": 0,
+        "sort_order": 3,
+        "url_slug": "audio",
+        "is_active": true
+    },
+    {
+        "id": 4,
+        "name": "Tablets",
+        "description": "Tablets and portable computing devices",
+        "parent_id": 0,
+        "sort_order": 4,
+        "url_slug": "tablets",
+        "is_active": true
+    },
+    {
+        "id": 5,
+        "name": "Accessories",
+        "description": "Computer accessories and peripherals",
+        "parent_id": 0,
+        "sort_order": 5,
+        "url_slug": "accessories",
+        "is_active": true
+    }
+]

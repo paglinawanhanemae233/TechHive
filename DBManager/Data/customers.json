@@ -1,0 +1,115 @@
+{
+    "id": "CUST-001",
+    "first_name": "Hanemae",
+    "last_name": "Paglinawan",
+    "email": "paglinawanhanemae233@gmail.com",
+    "phone_number": "+63 912 345 6789",
+    "date_registered": "2025-09-18",
+    "last_login": "2025-09-18 10:30:00",
+    "is_active": {
+        "id": "CUST-20250919-764099",
+        "first_name": "Hanemae",
+        "last_name": "Paglinawan",
+        "email": "paglinawanhanemae233@gmail.com",
+        "phone": "09454929601",
+        "password_hash": "$2y$10$.X2Xbatxio99v7xKJlxcVOtov.Ji5JMk7HiZnRv0Q4gEDzCjq1e7y",
+        "date_registered": "2025-09-19 07:19:35",
+        "last_login": "2025-09-19 07:19:47",
+        "is_active": true
+    },
+    "0": {
+        "id": "CUST-20250919-764099",
+        "first_name": "Hanemae",
+        "last_name": "Paglinawan",
+        "email": "paglinawanhanemae233@gmail.com",
+        "phone": "09454929601",
+        "password_hash": "$2y$10$.X2Xbatxio99v7xKJlxcVOtov.Ji5JMk7HiZnRv0Q4gEDzCjq1e7y",
+        "date_registered": "2025-09-19 07:19:35",
+        "last_login": "2025-09-19 08:00:57",
+        "is_active": true
+    },
+    "1": {
+        "id": "68cce8c5aa0f2",
+        "name": "Hanemae Paglinawan",
+        "email": "paglinawanhanemae233@gmail.com",
+        "phone": "09454929601",
+        "address": {
+            "street": "Purok Garcia Buenavista",
+            "city": "Tandag City",
+            "state": "Surigao Del Sur",
+            "zip": "8300",
+            "country": "PH"
+        },
+        "created_at": "2025-09-19 07:23:17"
+    },
+    "2": {
+        "id": "68cce8cdd8a79",
+        "name": "Hanemae Paglinawan",
+        "email": "paglinawanhanemae233@gmail.com",
+        "phone": "09454929601",
+        "address": {
+            "street": "Purok Garcia Buenavista",
+            "city": "Tandag City",
+            "state": "Surigao Del Sur",
+            "zip": "8300",
+            "country": "PH"
+        },
+        "created_at": "2025-09-19 07:23:25"
+    },
+    "3": {
+        "id": "68ccf1c9d75fa",
+        "name": "Hanemae Paglinawan",
+        "email": "paglinawanhanemae233@gmail.com",
+        "phone": "09454929601",
+        "address": {
+            "street": "Purok Garcia Buenavista",
+            "city": "Tandag City",
+            "state": "Surigao Del Sur",
+            "zip": "8300",
+            "country": "PH"
+        },
+        "created_at": "2025-09-19 08:01:45"
+    },
+    "4": {
+        "id": "68ccf20d14d40",
+        "name": "Hanemae Paglinawan",
+        "email": "paglinawanhanemae233@gmail.com",
+        "phone": "09454929601",
+        "address": {
+            "street": "Purok Garcia Buenavista",
+            "city": "Tandag City",
+            "state": "Surigao Del Sur",
+            "zip": "8300",
+            "country": "PH"
+        },
+        "created_at": "2025-09-19 08:02:53"
+    },
+    "5": {
+        "id": "68ccf278949aa",
+        "name": "Hanemae Paglinawan",
+        "email": "paglinawanhanemae233@gmail.com",
+        "phone": "09454929601",
+        "address": {
+            "street": "Purok Garcia Buenavista",
+            "city": "Tandag City",
+            "state": "Surigao Del Sur",
+            "zip": "8300",
+            "country": "PH"
+        },
+        "created_at": "2025-09-19 08:04:40"
+    },
+    "6": {
+        "id": "68ccf2d536f4f",
+        "name": "Hanemae Paglinawan",
+        "email": "paglinawanhanemae233@gmail.com",
+        "phone": "09454929601",
+        "address": {
+            "street": "Purok Garcia Buenavista",
+            "city": "Tandag City",
+            "state": "Surigao Del Sur",
+            "zip": "8300",
+            "country": "PH"
+        },
+        "created_at": "2025-09-19 08:06:13"
+    }
+}
